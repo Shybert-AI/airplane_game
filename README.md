@@ -1,2 +1,2 @@
-# airplane_game
-# airplane_game
+# 飞机大战游戏，可直接运行  
+
